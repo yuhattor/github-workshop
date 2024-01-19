@@ -1,0 +1,21 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-01-19T11:10:58Z",
+  "id": "docs",
+  "duration": 0,
+  "title": "GitHub ワークショップ: チームコラボレーションを強化する",
+  "summary": "GitHub ワークショップ",
+  "source": "workshop.ja.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": null,
+  "tags": [
+    "web"
+  ],
+  "url": "docs"
+}
